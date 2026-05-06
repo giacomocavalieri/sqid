@@ -1,4 +1,4 @@
-# sqid
+# 🦑 sqid
 
 [![Package Version](https://img.shields.io/hexpm/v/sqid)](https://hex.pm/packages/sqid)
 [![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/sqid/)
