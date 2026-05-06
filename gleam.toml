@@ -1,0 +1,12 @@
+name = "sqid"
+version = "1.0.0"
+
+description = "short unique identifiers generated from numbers"
+licences = ["MIT"]
+repository = { type = "github", user = "giacomocavalieri", repo = "sqid" }
+
+[dependencies]
+gleam_stdlib = ">= 1.0.0 and < 2.0.0"
+
+[dev_dependencies]
+gleeunit = ">= 1.0.0 and < 2.0.0"
